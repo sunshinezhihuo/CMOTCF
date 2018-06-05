@@ -23,7 +23,7 @@ Train集包含的序列有：
          
 具体详情如下：
 Mycode: kcf
-
+```
 Sequences: 
     'TUD-Stadtmitte'
     'TUD-Campus'
@@ -97,8 +97,9 @@ Evaluating
  ********************* Your Benchmark Results (2D) ***********************
  IDF1  IDP  IDR| Rcll  Prcn   FAR|   GT  MT   PT   ML|    FP    FN   IDs    FM|  MOTA  MOTP MOTAL 
  21.3 25.8 18.2| 48.6  63.8  2.00|  500  69  185  246| 10980 20520   262   635|  20.4  72.0  21.1
- 
+ ```
 ILDA = 1 时，
+```
 Sequences: 
     'TUD-Stadtmitte'
     'TUD-Campus'
@@ -173,8 +174,9 @@ Evaluating
  ********************* Your Benchmark Results (2D) ***********************
  IDF1  IDP  IDR| Rcll  Prcn   FAR|   GT  MT   PT   ML|    FP    FN   IDs    FM|  MOTA  MOTP MOTAL 
  20.0 22.5 18.0| 52.1  60.1  2.51|  500  88  182  230| 13790 19134   316   776|  16.7  71.4  17.5 
-
+```
 ILDA = 0 时，
+```
 Sequences: 
     'TUD-Stadtmitte'
     'TUD-Campus'
@@ -249,4 +251,4 @@ Evaluating
  ********************* Your Benchmark Results (2D) ***********************
  IDF1  IDP  IDR| Rcll  Prcn   FAR|   GT  MT   PT   ML|    FP    FN   IDs    FM|  MOTA  MOTP MOTAL 
  19.3 21.3 17.6| 52.9  59.4  2.63|  500  96  175  229| 14441 18802   328   793|  15.9  71.3  16.7 
- 
+ ```
