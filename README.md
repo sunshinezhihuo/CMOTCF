@@ -8,6 +8,7 @@ ILDA = 0  MOTA = 15.9
 
 %% 上述结果都在2DMOT2015的train集上做的实验：
 Train集包含的序列有：
+
 % TUD-Stadtmitte      
 % TUD-Campus          
 % PETS09-S2L1         
@@ -22,6 +23,7 @@ Train集包含的序列有：
          
 具体详情如下：
 Mycode: kcf
+
 Sequences: 
     'TUD-Stadtmitte'
     'TUD-Campus'
@@ -35,7 +37,7 @@ Sequences:
     'ETH-Pedcross2'
     'Venice-2'
 
-Evaluating ... 
+Evaluating  
 	... TUD-Stadtmitte
 *** 2D (Bounding Box overlap) ***
  IDF1  IDP  IDR| Rcll  Prcn   FAR|   GT  MT   PT   ML|    FP    FN   IDs    FM|  MOTA  MOTP MOTAL 
@@ -110,7 +112,8 @@ Sequences:
     'KITTI-17'
     'Venice-2'
 
-Evaluating ... 
+Evaluating 
+
 	... TUD-Stadtmitte
 *** 2D (Bounding Box overlap) ***
  IDF1  IDP  IDR| Rcll  Prcn   FAR|   GT  MT   PT   ML|    FP    FN   IDs    FM|  MOTA  MOTP MOTAL 
@@ -185,7 +188,8 @@ Sequences:
     'KITTI-17'
     'Venice-2'
 
-Evaluating ... 
+Evaluating 
+
 	... TUD-Stadtmitte
 *** 2D (Bounding Box overlap) ***
  IDF1  IDP  IDR| Rcll  Prcn   FAR|   GT  MT   PT   ML|    FP    FN   IDs    FM|  MOTA  MOTP MOTAL 
