@@ -1,7 +1,5 @@
 # CMOTCF
 BASELINE：CMOT https://motchallenge.net/tracker/TC_ODAL
-
-Mycode: 
 2DMOT2015
 ILDA = 1  MOTA = 16.7
 ILDA = 0  MOTA = 15.9
